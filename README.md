@@ -5,7 +5,8 @@
 <br>
 <br>
 
->### Does it make sense to split projects into these topics? (most projects span across more of these)
+>### Does it make sense to split projects into these topics?  
+>(most projects span across more of these)
 * [Analytics](#analytics_repo)
 * [Data Science](#data_science_repo)
 * [Data Engineering](#data_engineering_repo)
